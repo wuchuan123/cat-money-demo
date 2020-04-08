@@ -35,11 +35,13 @@
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.1.2",
     "lint-staged": "^9.5.0",
+    "node-sass": "^4.9.2",
     "sass": "^1.25.0",
     "sass-loader": "^8.0.2",
     "svg-sprite-loader-mod": "^4.1.6-mod1",
     "svgo-loader": "^2.2.1",
     "typescript": "~3.7.5",
+    "vue-cli-plugin-element": "^1.0.1",
     "vue-template-compiler": "^2.6.11"
   },
   "gitHooks": {
