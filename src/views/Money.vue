@@ -52,5 +52,6 @@
 
   .notes {
     padding: 12px 0;
+    background: rgb(245,245,245);
   }
 </style>
